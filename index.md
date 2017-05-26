@@ -12,4 +12,4 @@ You can use HTML elements in Markdown, such as the comment element, and they won
 -->
 ![American Bittern][logo]
 
-[logo]: pictures/main/American_Bittern.jpg = 300X350
+[logo] (pictures/main/American_Bittern.jpg =300X350)
