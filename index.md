@@ -12,4 +12,4 @@ You can use HTML elements in Markdown, such as the comment element, and they won
 -->
 ![American Bittern][logo]
 
-[logo]: (pictures/main/American_Bittern.jpg |){:height="700px" width="400px"}
+[logo]: <img src="pictures/main/American_Bittern.jpg" alt="Bittern" width="300" height="350">
