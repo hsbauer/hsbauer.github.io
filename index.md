@@ -12,4 +12,4 @@ You can use HTML elements in Markdown, such as the comment element, and they won
 -->
 ![American Bittern][logo]
 
-[logo]: pictures/main/American_Bittern.jp
+[logo]: ./pictures/main/American_Bittern.jp
